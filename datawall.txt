@@ -137,9 +137,6 @@
           "path": "https://avatars.mds.yandex.net/i?id=74b63a01d0313cd25a501af6f7e1b706c784c558-4829890-images-thumbs&n=13"
         }
       ]
-    },
-    
-      ]
     }
   ]
 }
